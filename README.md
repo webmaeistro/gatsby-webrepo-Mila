@@ -1,30 +1,7 @@
-<p align="center">
-  <a href="https://emilia.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Starter Portfolio: Emilia
-</h1>
 
-<p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-portfolio-emilia/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Gatsby Starter Portfolio: Emilia is released under the MIT license." />
-  </a>
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
-  <a href="https://app.netlify.com/sites/portfolio-emilia/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/5da7d9e1-9b91-44c5-b23d-b47cab98c50d/deploy-status" alt="Netlify Status" />
-  </a>
-</p>
+# info
 
-Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Using the Gatsby Theme [`@lekoarts/gatsby-theme-emilia`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-emilia).
-
-[**Demo Website**](https://emilia.lekoarts.de)
-
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
+Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Using the Gatsby Theme 
 
 ## ✨ Features
 
@@ -38,15 +15,13 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 - Offline Support & WebApp Manifest
 
 ## 🚀 Getting Started
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LekoArts/gatsby-starter-portfolio-emilia) [![Edit gatsby-starter-portfolio-emilia](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/LekoArts/gatsby-starter-portfolio-emilia/tree/master/)
+go 
 
 1. **Create a Gatsby site.**
 
 Use the Gatsby CLI to create a new site, specifying this project
 
-```sh
-gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-emilia
+
 ```
 
 2. **Start developing.**
@@ -111,7 +86,7 @@ The `static` folder contains the icons, social media images and robots.txt. Don'
 
 ## 🤔 Questions or problems?
 
-Please open up an issue on the main repository: [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes). Thanks!
+Please open up an issue on the main repository:  Thanks!
 
 ## 🎓 Learning Gatsby
 
@@ -129,8 +104,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on Gatsby's webs
 
 ## 🌟 Supporting me
 
-Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/lekoarts_de) and share the project with me.
+Thanks for using this project! I'm always interested in seeing what people do with my projects, so don't hesitate to tag me on [Twitter](https://twitter.com/webmaeistro) and share the project with me.
 
-Please star this project, share it on Social Media or consider supporting me on [Patreon](https://www.patreon.com/lekoarts)!
 
-If you want to hire me for **contract/freelance work**, you can do so! [Get in touch with me!](https://www.lekoarts.de/en/contact)

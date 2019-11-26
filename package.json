@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "emilia",
+  "name": "masa",
   "description": "Minimalistic portfolio/photography site with masonry grid, page transitions and big images. Themeable with Theme UI. Includes Light/Dark mode.",
-  "version": "0.0.15",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "version": "0.1.15",
+  "author": "Martin Andersen <marander@pm.me>",
   "license": "MIT",
-  "starter-name": "gatsby-starter-portfolio-emilia",
+  "starter-name": "gatsby-starter-inyoface-pictures",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
